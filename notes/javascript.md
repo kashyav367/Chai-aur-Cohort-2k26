@@ -14,3 +14,7 @@
 ---
 ### ☕ Chai Aur JavaScript – Day 3
 [Open PDF](https://docs.google.com/document/d/1-XnAa9ACbVr1e5gJnfqIE83a0zljCwHiGHlu_MMHB3s/edit?tab=t.0)
+
+
+### ☕ Chai Aur JavaScript – 21 feb 2026 notes
+[Open PDF](https://docs.google.com/document/d/1sIHjWZ6ywOGnEPC-lAVpYuDA0DL9fbSNRwl-2uoLR-w/edit?usp=sharing)
