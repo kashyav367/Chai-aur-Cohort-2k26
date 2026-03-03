@@ -19,3 +19,8 @@
 ---
 ### ☕ Chai Aur JavaScript – 21 feb 2026 notes
 [Open PDF](https://docs.google.com/document/d/1sIHjWZ6ywOGnEPC-lAVpYuDA0DL9fbSNRwl-2uoLR-w/edit?usp=sharing)
+
+---
+### ☕ Chai Aur JavaScript – 22 feb 2026 notes
+[Open PDF](hfile:///C:/Users/REALME/Downloads/COHORT_21_FEB_2026_Object_Oriented_JavaScript_lyst1772122406689.pdf)
+
