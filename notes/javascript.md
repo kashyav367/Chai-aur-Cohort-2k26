@@ -24,4 +24,8 @@
 
 ---
 
+### ☕ Chai Aur JavaScript – 01 mar 2026 notes
+[Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing) ---> clossures
+
+
 
