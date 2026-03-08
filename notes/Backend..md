@@ -1,1 +1,33 @@
+# 📘 JavaScript Notes
+
+## 📄 PDF Resources
+
+### ☕ Chai Aur JavaScript – Day 1
+[Open PDF](https://drive.google.com/file/d/1weQmfBe4nkmO6oIOR3R7Mr9gchW7xpSU/view?usp=drivesdk)
+
+---
+
+### ☕ Chai Aur JavaScript – Day 2
+[Open PDF](https://drive.google.com/file/d/1wes-6OUB_CZBgah4U5hqiaTsNDwU6bYz/view?usp=drivesdk)
+
+
+---
+### ☕ Chai Aur JavaScript – Day 3
+[Open PDF](https://docs.google.com/document/d/1-XnAa9ACbVr1e5gJnfqIE83a0zljCwHiGHlu_MMHB3s/edit?tab=t.0)
+
+
+---
+### ☕ Chai Aur JavaScript – 21 feb 2026 notes
+[Open PDF](https://docs.google.com/document/d/1sIHjWZ6ywOGnEPC-lAVpYuDA0DL9fbSNRwl-2uoLR-w/edit?usp=sharing)
+[Open PDF](https://drive.google.com/file/d/1gDEtnOTu3-b0t4tATRLVVKdl6PqSFQh_/view?usp=sharing)
+
+
+---
+
+### ☕ Chai Aur JavaScript – 01 mar 2026 notes
+[Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing) ---> closures
+
+
+### ☕ extra function resources
+[Open PDF](https://docs.google.com/document/d/1gjGb7C9UBAO6HCVpHqNl7Z4x_z8zlTV4-80HXHW2H88/edit?usp=sharing) 
 
