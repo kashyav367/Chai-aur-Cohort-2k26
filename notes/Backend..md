@@ -1,4 +1,4 @@
-# 📘 Bacckend Notes
+# 📘 Backend Notes
 
 ## 📄 PDF Resources
 
