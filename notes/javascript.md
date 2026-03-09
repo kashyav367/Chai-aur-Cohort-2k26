@@ -23,6 +23,8 @@
 
 
 ---
+### ☕ Chai Aur JavaScript – T-6 CLASS NOTES(DATE AND TIME)
+[Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing)
 
 ### ☕ Chai Aur JavaScript – 01 mar 2026 notes
 [Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing) ---> closures
