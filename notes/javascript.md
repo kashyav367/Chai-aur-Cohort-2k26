@@ -29,7 +29,8 @@
 ---
 ### ☕ Chai Aur JavaScript – 01 mar 2026 notes
 [Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing) ---> closures
-[Open PDF](https://www.notion.so/JavaScript-Closures-Notes-31dc27baf504802296c0e0ba2f3067b2?source=copy_link) ---> closures
+---
+[Open PDF](https://www.notion.so/JavaScript-Closures-Notes-31dc27baf504802296c0e0ba2f3067b2?source=copy_link) ---> closures(updates notes make more interesting)
 
 ---
 ### ☕ extra function resources
