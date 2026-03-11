@@ -8,7 +8,7 @@
 ---
 
 ### ☕ Chai Aur JavaScript – Day 2
-[Open PDF](https://drive.google.com/file/d/1wes-6OUB_CZBgah4U5hqiaTsNDwU6bYz/view?usp=drivesdk)
+[Open PDF](https://drive.google.com/file/d/1wes-6OUB_CZBgah4U5hqiaTsNDwU6bYz/view?usp=drivesdk) --> FUNDAENTALS 
 
 
 ---
