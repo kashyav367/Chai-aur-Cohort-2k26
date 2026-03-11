@@ -7,13 +7,13 @@
 
 ---
 
-### ☕ Chai Aur JavaScript – Day 2
-[Open PDF](https://drive.google.com/file/d/1wes-6OUB_CZBgah4U5hqiaTsNDwU6bYz/view?usp=drivesdk) --> FUNDAENTALS 
+### ☕ Chai Aur JavaScript – Day 2 
+[Open PDF](https://drive.google.com/file/d/1wes-6OUB_CZBgah4U5hqiaTsNDwU6bYz/view?usp=drivesdk) --> FUNDAMENYTALS -PART-1
 
 
 ---
 ### ☕ Chai Aur JavaScript – Day 3
-[Open PDF](https://docs.google.com/document/d/1-XnAa9ACbVr1e5gJnfqIE83a0zljCwHiGHlu_MMHB3s/edit?tab=t.0)
+[Open PDF](https://docs.google.com/document/d/1-XnAa9ACbVr1e5gJnfqIE83a0zljCwHiGHlu_MMHB3s/edit?tab=t.0) --> FUNDAMENTALS-PART-2
 
 
 ---
