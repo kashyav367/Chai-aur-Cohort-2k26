@@ -23,7 +23,7 @@
 
 ---
 ### ☕ Chai Aur JavaScript – T-6 CLASS NOTES(DATE AND TIME)
-[Open PDF](https://drive.google.com/file/d/1VU4EBiFNQ470QQNisbrGRRVDJaRfsDfD/view?usp=sharing)
+[Open PDF](https://www.notion.so/T-6-CLASS-NOTES-31bc27baf5048057a640eebd6cdb385e?source=copy_link)
 
 
 ---
