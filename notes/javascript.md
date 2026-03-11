@@ -19,7 +19,9 @@
 ---
 ### ☕ Chai Aur JavaScript – 21 feb 2026 notes
 [Open PDF](https://docs.google.com/document/d/1sIHjWZ6ywOGnEPC-lAVpYuDA0DL9fbSNRwl-2uoLR-w/edit?usp=sharing) --> this , call , bind and apply
-[Open PDF](https://drive.google.com/file/d/1gDEtnOTu3-b0t4tATRLVVKdl6PqSFQh_/view?usp=sharing)
+[Open PDF](https://drive.google.com/file/d/1gDEtnOTu3-b0t4tATRLVVKdl6PqSFQh_/view?usp=sharing) --> DEEP NOTES OF THIS,CALL,BIN,APPLY,PROTOTYPE
+[Open PDF](https://www.notion.so/OOPS-THINGS-31dc27baf50480b68b86e8bf058dfcb0?source=copy_link) --> CLASSES 
+
 
 ---
 ### ☕ Chai Aur JavaScript – T-6 CLASS NOTES(DATE AND TIME)
