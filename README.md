@@ -28,6 +28,7 @@ This repository contains my complete learning journey including:
 | 06 | 21 & 22 Feb | OOP in JS | - | - | [View](./blogs) |
 | 07 | 28 Feb & 01 Mar | Async Programming & DOM in JS | - | - | [View](./blogs) |
 | 08 | 07 & 08 Mar | TypeScript & Intro to Node + Express | - | - | - |
+| 09 | 12 Mar | DOM WITH 5 MINI PROJECTS | - | - | - |
 
 ---
 
