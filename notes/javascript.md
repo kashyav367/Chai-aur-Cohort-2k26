@@ -40,7 +40,7 @@
  
 ---
 ### ☕ Chai aur DOM – T-7 (12 March 2026)
-[Open PDF](https://www.notion.so/T-7-NOTES-CHAI-AUR-DOM-31dc27baf504807b8d95d5ef3a6357bf?source=copy_link)- Docs Notes 
+[Open PDF](https://www.notion.so/T-7-NOTES-CHAI-AUR-DOM-31dc27baf504807b8d95d5ef3a6357bf)- Docs Notes 
 
 [Open PDF](https://drive.google.com/file/d/120AWTnrE08K8Y_R6TMeYD1fs5askZsWP/view?usp=drivesdk)- handwritten notes 
 
