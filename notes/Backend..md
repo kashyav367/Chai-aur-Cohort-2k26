@@ -11,3 +11,7 @@
 [Open PDF](https://www.notion.so/Chai-aur-Backend-Express-Using-TypeScript-31dc27baf504803baf02d140ddb5784b) -> Nodejs vs express & typescript with express
 
 
+---
+
+### ☕ Chai Aur Backend – Day 3
+[Open PDF](https://drive.google.com/file/d/1Dy04NAl-HhXcQarw0tzKQkOyNPFzV2yc/view) -> Nodejs architecture internals 
