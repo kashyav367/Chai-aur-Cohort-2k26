@@ -29,6 +29,8 @@ This repository contains my complete learning journey including:
 | 07 | 28 Feb & 01 Mar | Async Programming & DOM in JS | - | - | [View](./blogs) |
 | 08 | 07 & 08 Mar | TypeScript & Intro to Node + Express | - | - | - |
 | 09 | 12 Mar | DOM WITH 5 MINI PROJECTS | - | - | - |
+| 10 | 14 Mar | NODEJS ARCHITECTURE | - | - | - |
+| 11 | 15 Mar | INTRO TO EXPRESSJS | - | - | - |
 
 ---
 
