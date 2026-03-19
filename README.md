@@ -31,6 +31,8 @@ This repository contains my complete learning journey including:
 | 09 | 12 Mar | DOM WITH 5 MINI PROJECTS | - | - | - |
 | 10 | 14 Mar | NODEJS ARCHITECTURE | - | - | - |
 | 11 | 15 Mar | INTRO TO EXPRESSJS | - | - | - |
+| 11 | 19 Mar | T-8 BROWSER EVENTS | - | - | - |
+
 
 ---
 
