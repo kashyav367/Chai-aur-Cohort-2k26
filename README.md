@@ -4,6 +4,11 @@ Explore my assignments, projects, blogs and notes as I grow from beginner to dev
 
 ---
 
+<p align="center">
+  <img src="chaicode.png" alt="Web Dev Cohort 2k26" width="100%" />
+  
+</p>
+---
 ## 📌 Introduction
 
 This repository contains my complete learning journey including:
