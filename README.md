@@ -31,7 +31,10 @@ This repository contains my complete learning journey including:
 | 09 | 12 Mar | DOM WITH 5 MINI PROJECTS | - | - | - |
 | 10 | 14 Mar | NODEJS ARCHITECTURE | - | - | - |
 | 11 | 15 Mar | INTRO TO EXPRESSJS | - | - | - |
-| 11 | 19 Mar | T-8 BROWSER EVENTS | - | - | - |
+| 12 | 19 Mar | T-8 BROWSER EVENTS | - | - | - |
+| 13 | 21 Mar | RESTFUL BUILDING-1 | - | - | - |
+| 14 | 22 Mar | RESTFUL BUILDING-2 | - | - | - |
+
 
 
 ---
