@@ -48,3 +48,9 @@
 
 ### ☕ Chai aur DOM – T-8 (19 March 2026)
 [Open PDF](https://drive.google.com/file/d/1aRGGZrNmPblCUaIxr4EfM5YxbEzOYR_C/view?usp=drivesdk)- handwritten notes 
+
+---
+### ☕ Chai aur DOM – T-9 (27 March 2026)
+[Open PDF](https://drive.google.com/file/d/1FobYeqSvnmUIpcJ9MxGAWzFt7oOzwpeR/view?usp=sharing)- handwritten notes 
+
+
