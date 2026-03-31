@@ -36,4 +36,8 @@
 ### ☕ Chai Aur Backend – 28st march
 [Open PDF](https://drive.google.com/file/d/1bUdIRz5q6I5nK28gdQ4w-glRJnxEjYGR/view?usp=drivesdk) -> Authenticatiion and Authorization
 
+---
+### ☕ Chai Aur Backend – 28st march
+[Open PDF](https://drive.google.com/file/d/1yN1K7s2rMp3sjnMORV3jffyIfzpvfm77/view) -> Auth. with TypeScript, Drizzle & Postgres
+
 
