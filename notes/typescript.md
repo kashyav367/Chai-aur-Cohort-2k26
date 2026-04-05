@@ -7,3 +7,6 @@
 
 ---
 
+
+### ☕ Chai Aur typeScript – t- class 10
+[Open PDF](https://drive.google.com/file/d/1CWjDS5dpHst0-GrO2pH_RywOtyU88Ayg/view?usp=drivesdk)
