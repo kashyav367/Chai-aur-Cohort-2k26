@@ -40,7 +40,11 @@ This repository contains my complete learning journey including:
 | 13 | 21 Mar | RESTFUL BUILDING-1 | - | - | - |
 | 14 | 22 Mar | RESTFUL BUILDING-2 | - | - | - |
 | 15| 26 Mar | t-9 oops notes| - | - | - |
-|16 | 28 Mar | authentication and Authorisation| - | - |
+|16 | 28 Mar | authentication and Authorisation - (mongoose)| - | - |
+|17 | 29 Mar | authentication and Authorisation - (drizzle)| - | - |
+|18 | 2 april | T-10 COMPLETE TYPESCRIPT| - | - |
+|19 | 4 april | CHAI AUR SQL-1| - | - |
+|20 | 5 april | CHAI AUR SQL-2| - | - |
 
 
 
