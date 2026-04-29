@@ -45,6 +45,14 @@ This repository contains my complete learning journey including:
 |18 | 2 april | T-10 COMPLETE TYPESCRIPT| - | - |
 |19 | 4 april | CHAI AUR SQL-1| - | - |
 |20 | 5 april | CHAI AUR SQL-2| - | - |
+|21 | 11 april | Read and write filesystems| - | - |
+|22 | 12 april | ipl management system| - | - |
+|23 | 17 april | oidc and oath| - | - |
+|24 | 18 april | websocket intro| - | - |
+|25 | 24 april | websocket , rate limiting , reddit| - | - |
+|26 | 25 april | kafka | - | - |
+
+
 
 
 
