@@ -53,13 +53,13 @@ This repository contains my complete learning journey including:
 |26 | 25 april | kafka | - | - |
 |27 | 02 may | react-1| - | - |
 |28 | 03 may | react-2 | - | - |
-|28 | 09 may | react-3 | - | - |
-|28 | 10 may | react-4 | - | - |
-|28 | 14 may | react-mastering | - | - |
-|28 | 16 may | full stack development project -1(day-1) | - | - |
-|28 | 17 may | full stack development project -1(day-2) | - | - |
-
-
+|29 | 09 may | react-3 | - | - |
+|30 | 10 may | react-4 | - | - |
+|31 | 14 may | react-mastering | - | - |
+|32 | 16 may | 	tRPC, Monorepos  | - | - |
+|33 | 17 may |  Form Builder Project | - | - |
+|34 | 23 may | Next.js | - | - |
+|35 | 24 may | Next.js | - | - |
 
 
 ---
