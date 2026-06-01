@@ -60,6 +60,9 @@ This repository contains my complete learning journey including:
 |33 | 17 may |  Form Builder Project | - | - |
 |34 | 23 may | Next.js | - | - |
 |35 | 24 may | Next.js | - | - |
+|36 | 30 may | GENAI | - | - |
+|37 | 31 may | GENAI| - | - |
+
 
 
 ---
