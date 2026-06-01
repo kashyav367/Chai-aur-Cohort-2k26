@@ -2,6 +2,7 @@
 
 ### ☕ Chai Aur Nextjs(part -1) – 24TH MAY 2026
 [Open PDF](https://drive.google.com/file/d/1FzM1ACdVm5wLSOxMXjwbnC0YwSPqFE4A/view?usp=sharing) -- bhaiya notes 
+---
 [Open PDF](https://drive.google.com/file/d/1rKBtF62Cy3Ks5L_ZQ82UMxXbMjjEhWj6/view?usp=sharing) == jaani detailed notes
 
 ---
